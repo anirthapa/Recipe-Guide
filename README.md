@@ -31,5 +31,3 @@ The app fetches matching recipes from the API.
 The results are displayed with images, ingredients, and instructions.
 
 Users can browse multiple recipes and choose one to view in detail.
-
-
